@@ -1,4 +1,5 @@
 import {printToDom} from "../helpers/util.js";
+import {detailsBuilder} from "./details.js";
 
 console.log("characters.js working");
 
@@ -12,10 +13,8 @@ console.log(characters);
 
 const characterClick = (e) => {
     const characterId = e.target.closest('.character-card').id;
-    const currentCharacter = characters.find(x => {
-        return x.id === characterId
-});
-    console.log(currentCharacter);
+    const currentCharacter = characters.find(x => x.id === characterId);
+    detailsBuilder(currentCharacter);
     
 }
 

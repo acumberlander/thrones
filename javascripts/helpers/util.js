@@ -1,8 +1,8 @@
 console.log("util.js working");
 
-const printToDom = (stringToPrint, divId) => {
-    const selectedDiv = document.getElementById(divId);
-    selectedDiv.innerHTML = stringToPrint;
+const printToDom = (stringToPrint) => {
+    const printHere = document.getElementById("characters");
+    printHere.innerHTML = stringToPrint;
 }
 
 

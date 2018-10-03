@@ -3,9 +3,12 @@ import {detailsBuilder} from "./details.js";
 
 console.log("characters.js working");
 
-const characters = [];
+let characters = [];
 
-console.log(characters);
+const setCharacters = (newArray) => {
+    characters = newArray;
+}
+
 
 const characterClick = (e) => {
     const characterId = e.target.closest('.character-card').id;
@@ -37,4 +40,4 @@ const charactersBuilder = () => {
     createEvents();
 }
 
-export {charactersBuilder};
+export {charactersBuilder, setCharacters};

@@ -3,12 +3,8 @@ import {detailsBuilder} from "./details.js";
 
 console.log("characters.js working");
 
-const characters = [
-    {id: "character1", name: "John Snow", house: "Stark", imageUrl: "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"},
-    {id: "character2", name: "a", house: "Targaryen", imageUrl: "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"},
-    {id: "character3", name: "b", house: "Lannister", imageUrl: "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"},
-    {id: "character4", name: "c", house: "Lannister", imageUrl: "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"}
-];
+const characters = [];
+
 console.log(characters);
 
 const characterClick = (e) => {

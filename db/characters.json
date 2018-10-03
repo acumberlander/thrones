@@ -1,0 +1,65 @@
+{
+    "characters": [
+        {
+        "id": "character1", 
+        "name": "John Snow",
+        "house": "Stark",
+        "imageUrl": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"
+        },
+        {
+        "id": "character2", 
+        "name": "Daenerys Targaryen", 
+        "house": "Targaryen", 
+        "imageUrl": "https://i.pinimg.com/originals/d8/e8/f7/d8e8f74e08568fe2c1eca68f541e417b.jpg"
+        },
+        {
+        "id": "character3", 
+        "name": "Cersei Lannister", 
+        "house": "Lannister", 
+        "imageUrl": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"
+        },
+        {
+        "id": "character4", 
+        "name": "Tyrion Lannister", 
+        "house": "Lannister", 
+        "imageUrl": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"
+        },
+        {
+        "id": "character5", 
+        "name": "Tyrion Lannister", 
+        "house": "Lannister", 
+        "imageUrl": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"
+        },
+        {
+        "id": "character6", 
+        "name": "Sansa Stark", 
+        "house": "Stark", 
+        "imageUrl": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"
+        },
+        {
+        "id": "character7", 
+        "name": "Arya Stark", 
+        "house": "Stark", 
+        "imageUrl": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"
+        },
+        {
+        "id": "character8", 
+        "name": "Ned Stark", 
+        "house": "Stark", 
+        "imageUrl": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"
+        },
+        {
+        "id": "character9", 
+        "name": "Jaime Lannister", 
+        "house": "Lannister", 
+        "imageUrl": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"
+        },
+        {
+        "id": "character10", 
+        "name": "Viserys Targaryen", 
+        "house": "Targaryen", 
+        "imageUrl": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"
+        }
+    ]
+}
+
